@@ -1,4 +1,5 @@
-﻿using MauiAppTempoAgora.Models;
+﻿
+using MauiAppTempoAgora.Models;
 using MauiAppTempoAgora.Services;
 using System;
 using System.Diagnostics;
